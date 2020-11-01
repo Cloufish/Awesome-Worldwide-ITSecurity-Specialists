@@ -16,7 +16,7 @@ This repo also insists on putting channels that actually record videos in the la
 ### IT Security Consultants / Engineers
 
 - [ HackerSploit ](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q) 
-- [ Hacker Valley Studio] (https://www.youtube.com/channel/UCMHeoyhkHdb4DdbBkhORqMQ)
+- [ Hacker Valley Studio ] (https://www.youtube.com/channel/UCMHeoyhkHdb4DdbBkhORqMQ)
 - [ Seytonic ](https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA)
 - [ Cyberactive Security ](https://www.youtube.com/channel/UCwP3e3Q-5vExm5PCailxPzg)
 
