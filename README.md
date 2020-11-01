@@ -83,7 +83,37 @@ This repo also insists on putting channels that actually record videos in the la
 
 ### IT Security Consultants / Engineers
 
+- [ Dawid Balut ](https://www.youtube.com/channel/UC1h6AnWkWOUOC4BlIr51R8w)
+- [ Zaufana Trzecia Strona ](https://www.youtube.com/c/ZaufanaTrzeciaStronaYT/videos)
 
+### Bug Bounty Hunters / Penetration Testers
+
+- [ Maciej Kofel ](https://www.youtube.com/channel/UCAKp7J068aaLjwp3AKP006g)
+- [ SekurakTV ](https://www.youtube.com/channel/UCfxk5idSdKXTEqAOa8YXIgw)
+- [ Niebezpiecznik ](https://www.youtube.com/channel/UCe6nK69Yc1zna7QSJEfA9pw)
+- [ Kacper Szurek ](https://www.youtube.com/channel/UCP16m86ciUUlU8UZvlpw0TQ)
+
+### Malware Analysts / Forensics
+
+
+
+### IT Security Analysts
+
+
+
+### CTFs Players / Teams / Creators
+
+- [ GynvaelColdwind ](https://www.youtube.com/user/GynvaelColdwind)
+
+### IT Security Conferences Channels 
+
+
+## Japanese
+
+### IT Security Consultants / Engineers
+
+- [ 徳丸浩のウェブセキュリティ講座 - Satoru Takeuchi ](https://www.youtube.com/channel/UCLNW6Bo_YU3TxnzsII2gEDA)
+- [ Low-level programming girls(https://www.youtube.com/channel/UCMsstGhINXdpMqo9tsElCMQ)
 
 ### Bug Bounty Hunters / Penetration Testers
 
@@ -99,11 +129,10 @@ This repo also insists on putting channels that actually record videos in the la
 
 ### CTFs Players / Teams / Creators
 
-
-
+- [ kurenaif ](https://www.youtube.com/channel/UCM--uemqoP45daIZG2-VpOA)
+- [ Pe:Pentatogon ](https://www.youtube.com/channel/UCPAr29YwG7yeuiBkvgjnaGQ)
+- [ 株式会社 Ninjastars ](https://www.youtube.com/channel/UCcKLJ_93efAxLUk78UZik1Q)
 ### IT Security Conferences Channels 
-
-
 
 
 
