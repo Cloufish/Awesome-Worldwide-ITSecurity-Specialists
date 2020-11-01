@@ -79,6 +79,31 @@ This repo also insists on putting channels that actually record videos in the la
 - [ Wild West Hackin' Fest](https://www.youtube.com/channel/UCef0TWni8ghLcJphdmDBoxw)
 - [ Open Security Summit ](https://www.youtube.com/channel/UCyse9b_2JLJUxKMLgSpOL-Q)
 
+## Polish
+
+### IT Security Consultants / Engineers
+
+
+
+### Bug Bounty Hunters / Penetration Testers
+
+
+
+### Malware Analysts / Forensics
+
+
+
+### IT Security Analysts
+
+
+
+### CTFs Players / Teams / Creators
+
+
+
+### IT Security Conferences Channels 
+
+
 
 
 
