@@ -113,7 +113,7 @@ This repo also insists on putting channels that actually record videos in the la
 ### IT Security Consultants / Engineers
 
 - [ 徳丸浩のウェブセキュリティ講座 - Satoru Takeuchi ](https://www.youtube.com/channel/UCLNW6Bo_YU3TxnzsII2gEDA)
-- [ Low-level programming girls(https://www.youtube.com/channel/UCMsstGhINXdpMqo9tsElCMQ)
+- [ Low-level programming girls ](https://www.youtube.com/channel/UCMsstGhINXdpMqo9tsElCMQ)
 
 ### Bug Bounty Hunters / Penetration Testers
 
