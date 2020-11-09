@@ -134,5 +134,1071 @@ This repo also insists on putting channels that actually record videos in the la
 - [ 株式会社 Ninjastars ](https://www.youtube.com/channel/UCcKLJ_93efAxLUk78UZik1Q)
 ### IT Security Conferences Channels 
 
+##Algerian
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!Arabic
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##Bengali
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##Bhojpuri
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##Bulgarian
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##Croatian
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##Czech
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##Danish
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##Dutch
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##Egyptian
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!Arabic
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##Estonian
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##Finnish
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##French
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##Frisian
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##German
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##Greek
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##Gujarati
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##Hindi
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##Hungarian
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##Indonesian
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##Iranian
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!Persian
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##Italian
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##Javanese
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##Kazakh
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##Korean
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##Latvian
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##Lithuanian
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##Luxembourgish
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##Mandarin
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!Chinese
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##Marathi
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##Moroccan
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!Arabic
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##Portuguese
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##Romanian
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##Russian
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##Serbian
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##Slovak
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##Spanish
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##Sudanese
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!Arabic
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##Tamil
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##Telugu
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##Thai
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##Tunisian
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!Arabic
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##Turkish
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##Ukrainian
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##Urdu
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##Vietnamese
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##Western
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!Punjabi
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!##Yue
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!Chinese
+### IT Security Consultants / Engineers
+
+- Need your contribution here!
+
+### Bug Bounty Hunters / Penetration Testers
+
+- Need your contribution here!
+
+### Malware Analysts / Forensics
+
+- Need your contribution here!
+
+### IT Security Analysts
+
+- Need your contribution here!
+
+### CTFs Players / Teams / Creators
+
+- Need your contribution here!
+
 
 
