@@ -11,7 +11,9 @@ It should be explained why reverse engineering, pwning is not added as a separat
 
 This repo also insists on putting channels that actually record videos in the language specified. If for example there's an German Youtuber, and he makes videos in English, then he doesn't count.
 # TOC
-
+- [English](#english)
+- [Polish](#polish)
+- [Japanese](#japanese)
 - [Algerian Arabic](#algerian-arabic)
 - [Bengali](#bengali)
 - [Bhojpuri](#bhojpuri)
