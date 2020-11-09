@@ -9,7 +9,7 @@ Problematic category is also CTFs, because we all know that mostly everyone is d
 
 It should be explained why reverse engineering, pwning is not added as a separate category. The reason is that it is too broad to define it in one category. We see reverse engineers that are analyzing malware or that do ctfs. In this repo reverse engineering is taken as a good ability/skill and not as a separate category.
 
-This repo also insists on putting channels that actually record videos in the language specified. If for example there's an German Youtuber, and he makes videos in English, then he doesn't count.
+This repo also insists on putting channels that record videos in the language specified. If for example there's an German Youtuber, and he makes videos in English, then he still can be in 'English' section, however if he/his channel doesn't have German videos then he can't be in the 'German' section
 # TOC
 - [English](#english)
 - [Polish](#polish)
