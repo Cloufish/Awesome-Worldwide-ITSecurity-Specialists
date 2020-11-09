@@ -10,6 +10,58 @@ Problematic category is also CTFs, because we all know that mostly everyone is d
 It should be explained why reverse engineering, pwning is not added as a separate category. The reason is that it is too broad to define it in one category. We see reverse engineers that are analyzing malware or that do ctfs. In this repo reverse engineering is taken as a good ability/skill and not as a separate category.
 
 This repo also insists on putting channels that actually record videos in the language specified. If for example there's an German Youtuber, and he makes videos in English, then he doesn't count.
+# TOC
+
+- [Algerian Arabic](#algerian-arabic)
+- [Bengali](#bengali)
+- [Bhojpuri](#bhojpuri)
+- [Bulgarian](#bulgarian)
+- [Croatian](#croatian)
+- [Czech](#czech)
+- [Danish](#danish)
+- [Dutch](#dutch)
+- [Egyptian Arabic](#egyptian-arabic)
+- [Estonian](#estonian)
+- [Finnish](#finnish)
+- [French](#french)
+- [Frisian](#frisian)
+- [German](#german)
+- [Greek](#greek)
+- [Gujarati](#gujarati)
+- [Hindi](#hindi)
+- [Hungarian](#hungarian)
+- [Indonesian](#indonesian)
+- [Iranian Persian](#iranian-persian)
+- [Italian](#italian)
+- [Javanese](#javanese)
+- [Kazakh](#kazakh)
+- [Korean](#korean)
+- [Latvian](#latvian)
+- [Lithuanian](#lithuanian)
+- [Luxembourgish](#luxembourgish)
+- [Mandarin Chinese](#mandarin-chinese)
+- [Marathi](#marathi)
+- [Moroccan Arabic](#moroccan-arabic)
+- [Portuguese](#portuguese)
+- [Romanian](#romanian)
+- [Russian](#russian)
+- [Serbian](#serbian)
+- [Slovak](#slovak)
+- [Spanish](#spanish)
+- [Sudanese Arabic](#sudanese-arabic)
+- [Tamil](#tamil)
+- [Telugu](#telugu)
+- [Thai](#thai)
+- [Tunisian Arabic](#tunisian-arabic)
+- [Turkish](#turkish)
+- [Ukrainian](#ukrainian)
+- [Urdu](#urdu)
+- [Vietnamese](#vietnamese)
+- [Western Punjabi](#western-punjabi)
+- [Yue Chinese](#yue-chinese)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 ## English
 
