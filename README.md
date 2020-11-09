@@ -62,7 +62,6 @@ This repo also insists on putting channels that actually record videos in the la
 - [Western Punjabi](#western-punjabi)
 - [Yue Chinese](#yue-chinese)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 ## English
