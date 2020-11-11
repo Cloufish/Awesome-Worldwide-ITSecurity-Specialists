@@ -14,7 +14,7 @@ Let's make a ITSec community much more differential and unique! :)
 ## Adding to the List
 
 - Fork this project
-- Please add the content to the `README.md` and `tools.md`. Make also sure that: 
+- Please add the content to the `README.md`. Make also sure that: 
 * The links are only with **Youtube channels or Twitch channels**
 - Submit a pull request.
 
