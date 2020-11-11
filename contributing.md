@@ -2,8 +2,8 @@
 
 Please follow the instructions below to make a contribution.
 
-This resource was made by the developers and hackers alike! We appreciate and recognize all [contributors](#contributors).
-Let's make a ITSec community much more differential and unique! :)
+This resource was made by the developers and hackers alike! We appreciate and recognize all [contributors](#contributors).  
+Let's make an ITSec community much more differential and unique! :)
 
 ## Table of Content
 
