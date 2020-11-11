@@ -1301,7 +1301,8 @@ It would be good if the person is not on two or more subsections and to be decla
 
 ### IT Security Consultants / Engineers
 
-- Need your contribution here!
+- [ Onur Oktay ](https://www.youtube.com/c/OnurOKTAY/)
+- [ Gökay Bekşen ](https://www.youtube.com/user/gokaybeksen)
 
 ### Bug Bounty Hunters / Penetration Testers
 
