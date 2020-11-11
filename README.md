@@ -1,14 +1,19 @@
 # Awesome-Worldwide-ITSecurity-Specialists
+
+I'll be very! (cannot even express how much!) if you fork [contribute](https://github.com/Cloufish/Awesome-Worldwide-ITSecurity-Specialists/blob/main/contributing.md) to this project
+
+## >$ whatisthis
 This repo is for people that are searching for IT Security Specialists in their native language, or for people that are language learners and just want to immerse more and include IT Security videos in their language learning process. 
 
 It mostly concentrate to Youtube channels. That's because Youtube is one of the most comfortable for most of people, and it can give better perception about the person :)
 
-Keep in mind that one individual cannot be assigned to category always properly, he can for example specialize in more than one field for example Penetration Testing + IT Security Consultant etc.. 
+## Issues with assigning youtubers to specific category that shouldn't be taken always seriously.
+- Keep in mind that one individual cannot be assigned to category always properly, he can for example specialize in more than one field for example Penetration Testing + IT Security Consultant etc.. 
 
-Problematic category is also CTFs, because we all know that mostly everyone is doing it. However, because the channel concentrate on making videos about CTF competition that's why It is on CTFs category.
+- Problematic category is also CTFs, because we all know that mostly everyone is doing it. However, because the channel concentrate on making videos about CTF competition that's why It is on CTFs category.
 
-It should be explained why reverse engineering, pwning is not added as a separate category. The reason is that it is too broad to define it in one category. We see reverse engineers that are analyzing malware or that do ctfs. In this repo reverse engineering is taken as a good ability/skill and not as a separate category.
-
+- It should be explained why reverse engineering, pwning is not added as a separate category. The reason is that it is too broad to define it in one category. We see reverse engineers that are analyzing malware or that do ctfs. In this repo reverse engineering is taken as a good ability/skill and not as a separate category.
+## It doesn't matter what nationality you are if you're doing videos in a specific language
 This repo also insists on putting channels that record videos in the language specified. If for example there's an German Youtuber, and he makes videos in English, then he still can be in 'English' section, however if he/his channel doesn't have German videos then he can't be in the 'German' section.
 
 It would be good if the person is not on two or more subsections and to be declared only in one subsection, because not doing so will lead to mess in these subsections and duplicated which may be misleading/confusing
