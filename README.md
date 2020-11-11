@@ -1,6 +1,6 @@
 # Awesome-Worldwide-ITSecurity-Specialists
 
-I'll be very! (cannot even express how much!) if you fork [contribute](https://github.com/Cloufish/Awesome-Worldwide-ITSecurity-Specialists/blob/main/contributing.md) to this project
+I'll be very! (cannot even express how much!) if you fork and [contribute](https://github.com/Cloufish/Awesome-Worldwide-ITSecurity-Specialists/blob/main/contributing.md) to this project
 
 ## >$ whatisthis
 This repo is for people that are searching for IT Security Specialists in their native language, or for people that are language learners and just want to immerse more and include IT Security videos in their language learning process. 
