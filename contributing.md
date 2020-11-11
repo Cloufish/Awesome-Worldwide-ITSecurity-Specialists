@@ -16,6 +16,7 @@ Let's make an ITSec community much more differential and unique! :)
 - Fork this project
 - Please add the content to the `README.md`. Make also sure that: 
 * The links are only with **Youtube channels or Twitch channels**
+* If the person is not on two or more subsections and to be declared only in one subsection.
 - Submit a pull request.
 
 ## Removing from the List
