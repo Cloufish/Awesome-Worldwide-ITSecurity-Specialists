@@ -25,4 +25,4 @@ Let's make an ITSec community much more differential and unique! :)
 - Submit a pull request again
 
 ## Contributors:
-- [ MuratSs ] (https://github.com/MuratSs)
+- [ MuratSs ](https://github.com/MuratSs)
