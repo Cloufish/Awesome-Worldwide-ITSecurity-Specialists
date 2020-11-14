@@ -1308,7 +1308,7 @@ It would be good if the person is not on two or more subsections and to be decla
 
 - [ Onur Oktay ](https://www.youtube.com/c/OnurOKTAY/)
 - [ Gökay Bekşen ](https://www.youtube.com/user/gokaybeksen)
-
+- [ Mehmet Demir İnce ](https://www.youtube.com/channel/UClis21-nGFunHa9agc7Md_Q)
 ### Bug Bounty Hunters / Penetration Testers
 
 - Need your contribution here!
@@ -1319,7 +1319,7 @@ It would be good if the person is not on two or more subsections and to be decla
 
 ### IT Security Analysts
 
-- Need your contribution here!
+- [ Mehmet Demir İnce ](https://www.youtube.com/channel/UClis21-nGFunHa9agc7Md_Q)
 
 ### CTFs Players / Teams / Creators
 
