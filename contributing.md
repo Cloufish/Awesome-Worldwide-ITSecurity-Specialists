@@ -23,6 +23,3 @@ Let's make an ITSec community much more differential and unique! :)
 
 - If you have 404 (Not found) error, or the link takes you to the completely different channel, then remove the line with link.
 - Submit a pull request again
-
-## Contributors:
-- [ MuratSs ](https://github.com/MuratSs)
