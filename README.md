@@ -18,7 +18,7 @@ Thanks goes to these wonderful people:
 <table>
   <tr>
     <td align="center"><a href="https://github.com/muratmirgun"><img src="https://avatars.githubusercontent.com/u/45563173?s=460&u=c21109cf22821397e0823d91c5232ef866b220d9&v=4" width="100px;" alt=""/><br /><sub><b>Murat Mirgün Ercan</b></sub></a><br />✅</td>
-    <td align="center"><a href="https://github.com/shadabansari"><img src="https://avatars.githubusercontent.com/u/46323937?s=460&u=95f98f3da19b9c508e6a3623a5f09f0b9e2b6a62&v=4" width="100px;" alt=""/><br /><sub><b>karl37</b></sub></a><br />✅</td>
+    <td align="center"><a href="https://github.com/karl37"><img src="https://avatars.githubusercontent.com/u/46323937?s=460&u=95f98f3da19b9c508e6a3623a5f09f0b9e2b6a62&v=4" width="100px;" alt=""/><br /><sub><b>karl37</b></sub></a><br />✅</td>
 </tr>
 </table>
 
@@ -479,7 +479,6 @@ It would be good if the person is not on two or more subsections and to be decla
 ### CTFs Players / Teams / Creators
 
 - [ KüberNaaskel ](https://sites.google.com/view/kyberolympia/avaleht)
-- [ Eesti informaatikaolümpiaad ](https://eio.ee/)
 
 ### IT Security Conferences Channels 
 
