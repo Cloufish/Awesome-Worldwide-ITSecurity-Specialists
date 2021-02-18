@@ -458,7 +458,8 @@ It would be good if the person is not on two or more subsections and to be decla
 
 ### CTFs Players / Teams / Creators
 
-- Need your contribution here!
+- [ KüberNaaskel ](https://sites.google.com/view/kyberolympia/avaleht)
+- [ Eesti informaatikaolümpiaad ](https://eio.ee/)
 
 ### IT Security Conferences Channels 
 
