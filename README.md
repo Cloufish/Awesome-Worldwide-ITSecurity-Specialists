@@ -7,6 +7,26 @@ This repo is for people that are searching for IT Security Specialists in their 
 
 It mostly concentrate to Youtube channels. That's because Youtube is one of the most comfortable for most of people, and it can give better perception about the person :)
 
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/muratmirgun"><img src="https://avatars.githubusercontent.com/u/45563173?s=460&u=c21109cf22821397e0823d91c5232ef866b220d9&v=4" width="100px;" alt=""/><br /><sub><b>Murat Mirgün Ercan</b></sub></a><br />✅</td>
+    <td align="center"><a href="https://github.com/shadabansari"><img src="https://avatars.githubusercontent.com/u/46323937?s=460&u=95f98f3da19b9c508e6a3623a5f09f0b9e2b6a62&v=4" width="100px;" alt=""/><br /><sub><b>karl37</b></sub></a><br />✅</td>
+</tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
 ## Issues with assigning youtubers to specific category that shouldn't be taken always seriously.
 - Keep in mind that one individual cannot be assigned to category always properly, he can for example specialize in more than one field for example Penetration Testing + IT Security Consultant etc.. 
 
