@@ -41,7 +41,7 @@ It would be good if the person is not on two or more subsections and to be decla
 - [English](#english)
 - [Polish](#polish)
 - [Japanese](#japanese)
-- [Algerian Arabic](#algerian-arabic)
+- [Arabic](#arabic)
 - [Bengali](#bengali)
 - [Bhojpuri](#bhojpuri)
 - [Bulgarian](#bulgarian)
@@ -49,7 +49,6 @@ It would be good if the person is not on two or more subsections and to be decla
 - [Czech](#czech)
 - [Danish](#danish)
 - [Dutch](#dutch)
-- [Egyptian Arabic](#egyptian-arabic)
 - [Estonian](#estonian)
 - [Finnish](#finnish)
 - [French](#french)
@@ -99,6 +98,7 @@ It would be good if the person is not on two or more subsections and to be decla
 - [ Hacker Valley Studio ](https://www.youtube.com/channel/UCMHeoyhkHdb4DdbBkhORqMQ)
 - [ Seytonic ](https://www.youtube.com/channel/UCW6xlqxSY3gGur4PkGPEUeA)
 - [ Cyberactive Security ](https://www.youtube.com/channel/UCwP3e3Q-5vExm5PCailxPzg)
+- Need your contribution here!
 
 ### Bug Bounty Hunters / Penetration Testers
 
@@ -118,6 +118,7 @@ It would be good if the person is not on two or more subsections and to be decla
 - [ jhaddix ](https://www.youtube.com/channel/UCk0f0svao7AKeK3RfiWxXEA)
 - [ Farah Hawa ](https://www.youtube.com/channel/UCq9IyPMXiwD8yBFHkxmN8zg)
 - [ TomNomNom ](https://www.youtube.com/channel/UCyBZ1F8ZCJVKSIJPrLINFyA)
+- Need your contribution here!
 
 ### Malware Analysts / Forensics
 
@@ -130,11 +131,13 @@ It would be good if the person is not on two or more subsections and to be decla
 - [ Kristina Balaam ](https://www.youtube.com/channel/UCRHFnRniDEGJCZgsEgtUPxA)
 - [ Overfl0w_](https://www.youtube.com/channel/UCrnGneCt1fB90zj8qnq3hVA)
 - [ Kindred Security ](https://www.youtube.com/channel/UCwP3e3Q-5vExm5PCailxPzg)
+- Need your contribution here!
 
 ### IT Security Analysts
 
 - [ Black Hills Information Security ](https://www.youtube.com/channel/UCJ2U9Dq9NckqHMbcUupgF0A)
 - [ Grant Collins ](https://www.youtube.com/channel/UCTLUi3oc1-a7dS-2-YgEKmA)
+- Need your contribution here!
 
 ### CTFs Players / Teams / Creators
 
@@ -151,6 +154,7 @@ It would be good if the person is not on two or more subsections and to be decla
 - [ 247CTF ](https://www.youtube.com/channel/UCtGLeKomT06x3xZ2SZp2l9Q)
 - [ Hacksplained ](https://www.youtube.com/channel/UCyv6ItVqQPnlFFi2zLxlzXA)
 - [OJ Reeves ](https://www.youtube.com/channel/UCz2aqRQWMhJ4wcJq3XneqRg)
+- Need your contribution here!
 
 ### IT Security Conferences Channels 
 
@@ -158,6 +162,7 @@ It would be good if the person is not on two or more subsections and to be decla
 - [AppSec Village ](https://www.youtube.com/channel/UCpT8Ll0b9ZLj1DeEQQz7f0A)
 - [ Wild West Hackin' Fest](https://www.youtube.com/channel/UCef0TWni8ghLcJphdmDBoxw)
 - [ Open Security Summit ](https://www.youtube.com/channel/UCyse9b_2JLJUxKMLgSpOL-Q)
+- Need your contribution here!
 
 ## Polish
 
@@ -165,6 +170,7 @@ It would be good if the person is not on two or more subsections and to be decla
 
 - [ Dawid Balut ](https://www.youtube.com/channel/UC1h6AnWkWOUOC4BlIr51R8w)
 - [ Zaufana Trzecia Strona ](https://www.youtube.com/c/ZaufanaTrzeciaStronaYT/videos)
+- Need your contribution here!
 
 ### Bug Bounty Hunters / Penetration Testers
 
@@ -172,6 +178,7 @@ It would be good if the person is not on two or more subsections and to be decla
 - [ SekurakTV ](https://www.youtube.com/channel/UCfxk5idSdKXTEqAOa8YXIgw)
 - [ Niebezpiecznik ](https://www.youtube.com/channel/UCe6nK69Yc1zna7QSJEfA9pw)
 - [ Kacper Szurek ](https://www.youtube.com/channel/UCP16m86ciUUlU8UZvlpw0TQ)
+- Need your contribution here!
 
 ### Malware Analysts / Forensics
 
@@ -184,6 +191,7 @@ It would be good if the person is not on two or more subsections and to be decla
 ### CTFs Players / Teams / Creators
 
 - [ GynvaelColdwind ](https://www.youtube.com/user/GynvaelColdwind)
+- Need your contribution here!
 
 ### IT Security Conferences Channels 
 
@@ -194,6 +202,7 @@ It would be good if the person is not on two or more subsections and to be decla
 
 - [ 徳丸浩のウェブセキュリティ講座 - Satoru Takeuchi ](https://www.youtube.com/channel/UCLNW6Bo_YU3TxnzsII2gEDA)
 - [ Low-level programming girls ](https://www.youtube.com/channel/UCMsstGhINXdpMqo9tsElCMQ)
+- Need your contribution here!
 
 ### Bug Bounty Hunters / Penetration Testers
 
@@ -212,21 +221,41 @@ It would be good if the person is not on two or more subsections and to be decla
 - [ kurenaif ](https://www.youtube.com/channel/UCM--uemqoP45daIZG2-VpOA)
 - [ Pe:Pentatogon ](https://www.youtube.com/channel/UCPAr29YwG7yeuiBkvgjnaGQ)
 - [ 株式会社 Ninjastars ](https://www.youtube.com/channel/UCcKLJ_93efAxLUk78UZik1Q)
-### IT Security Conferences Channels 
+- Need your contribution here!
 
-## Algerian Arabic
+### IT Security Conferences Channels 
+- Need your contribution here!
+
+## Arabic
 
 
 ### IT Security Consultants / Engineers
 
+- [ BugTube ](https://www.youtube.com/channel/UCDIQ17G4WlJUgYzhUCZS24g)
+- [ Fadi Alaswadi ](https://www.youtube.com/user/faswadi)
+- [ Free4arab | Information Technology ](https://www.youtube.com/user/Nourelhoda2011)
 - Need your contribution here!
 
 ### Bug Bounty Hunters / Penetration Testers
 
+- [ YasserRED ](https://www.youtube.com/channel/UCd9N7udUX-dlw39C5uc1j8Q)
+- [ Technawy dot net ](https://www.youtube.com/channel/UCf0lxRHILjcPAUwpDFUaVqw)
+- [ Cyber Security & Digital Forensics ](https://www.youtube.com/channel/UC4hr0rHIBU0svd_UQxLjoWw/featured)
+- [ Update - App Date ](https://www.youtube.com/channel/UCX-uTRjXXFc58LQg4cQdewQ)
+- [ Moha Tech ](https://www.youtube.com/channel/UCPxDudBytrzelBERNzdQ4NQ)
+- [ MadrasaTech Official ](https://www.youtube.com/c/MadrasaTechOfficial/featured)
+- [ Ebrahem Hegazy ](https://www.youtube.com/user/Zigoo0/videos)
+- [ Uncle Doctor - Am El T2beeb
+ ](https://www.youtube.com/channel/UCJhbDx3RYzdHurWKkPU216Q/videos)
 - Need your contribution here!
 
 ### Malware Analysts / Forensics
 
+- [ Mohammed Almodawah ](https://www.youtube.com/user/THExBOSSxKSA)
+- [ Infotech Community ](https://www.youtube.com/channel/UCqG_QpUfNrKErXV9ZFvwQNg)
+- [ ahmed khlief ](https://www.youtube.com/user/27medk)
+- [ Do djer ](https://www.youtube.com/channel/UC_5Lth1a3oY93aozeggCHwQ/videos)
+- [ Upgrade Channel ](https://www.youtube.com/channel/UClmHvB2PVd8Vzff9os5vEYw/videos)
 - Need your contribution here!
 
 ### IT Security Analysts
@@ -234,7 +263,7 @@ It would be good if the person is not on two or more subsections and to be decla
 - Need your contribution here!
 
 ### CTFs Players / Teams / Creators
-
+- [ RAQY TUT ](https://www.youtube.com/channel/UCYAt7wOffbJKjGKWCN-Utsw)
 - Need your contribution here!
 
 ### IT Security Conferences Channels 
@@ -404,33 +433,6 @@ It would be good if the person is not on two or more subsections and to be decla
 - Need your contribution here!
 
 ## Dutch
-
-
-### IT Security Consultants / Engineers
-
-- Need your contribution here!
-
-### Bug Bounty Hunters / Penetration Testers
-
-- Need your contribution here!
-
-### Malware Analysts / Forensics
-
-- Need your contribution here!
-
-### IT Security Analysts
-
-- Need your contribution here!
-
-### CTFs Players / Teams / Creators
-
-- Need your contribution here!
-
-### IT Security Conferences Channels 
-
-- Need your contribution here!
-
-## Egyptian Arabic
 
 
 ### IT Security Consultants / Engineers
