@@ -355,7 +355,8 @@ It would be good if the person is not on two or more subsections and to be decla
 
 
 ### IT Security Consultants / Engineers
-
+- [ KnowledgeCenter.rs ](https://www.youtube.com/c/KnowledgecenterRs/featured) 
+- [ Jasmin Azemovic ](https://www.youtube.com/channel/UCH4XgYUD-z3TvsziTfvax2Q)
 - Need your contribution here!
 
 ### Bug Bounty Hunters / Penetration Testers
@@ -363,7 +364,7 @@ It would be good if the person is not on two or more subsections and to be decla
 - Need your contribution here!
 
 ### Malware Analysts / Forensics
-
+- [ Information Security Center - CIS ](https://www.youtube.com/c/cisferunizg/featured)
 - Need your contribution here!
 
 ### IT Security Analysts
@@ -382,7 +383,8 @@ It would be good if the person is not on two or more subsections and to be decla
 
 
 ### IT Security Consultants / Engineers
-
+- [ K-net ](https://www.youtube.com/c/KnetGroup/videos)
+- [ Altair Blog ](https://www.youtube.com/c/AltairBlog/videos)
 - Need your contribution here!
 
 ### Bug Bounty Hunters / Penetration Testers
@@ -390,8 +392,10 @@ It would be good if the person is not on two or more subsections and to be decla
 - Need your contribution here!
 
 ### Malware Analysts / Forensics
-
+- [ ESET Czech Republic ](https://www.youtube.com/c/esetcz/videos)
+- [ COMGUARD CZ ](https://www.youtube.com/channel/UCdRVJIFL7O-nQz4ItIX-lzg/featured)
 - Need your contribution here!
+- [ Untrusted Network CZ ](https://www.youtube.com/channel/UCq8fZ0TlfcS0LdNRQr3DLTw/featured)
 
 ### IT Security Analysts
 
