@@ -526,7 +526,12 @@ It would be good if the person is not on two or more subsections and to be decla
 
 ### Bug Bounty Hunters / Penetration Testers
 
-- Need your contribution here!
+- [ Grub ](https://www.youtube.com/channel/UC5uoSVfCiwkxfaCFo10zGKQ)
+- [ Fethi Amirouche ](https://www.youtube.com/channel/UCUBCaWyXafiPb0R6svUsOvw/videos)
+- [ Biko Georges TV ](https://www.youtube.com/channel/UCTzLB4qrwlWOXC4BMEXl7WA)
+- [ Hackintux ](https://www.youtube.com/channel/UCasgryuegAnsvZ4CZlBL9ZQ/featured)
+- [ Atomrace Planète-Photo-Web ](https://www.youtube.com/channel/UCkVtc364_5j-ZivYYBTmJOg/featured)
+- [ Arthurus ](https://www.youtube.com/channel/UCUJSIF7yJJGbKhzPe6ofXEg)
 
 ### Malware Analysts / Forensics
 
@@ -576,11 +581,12 @@ It would be good if the person is not on two or more subsections and to be decla
 
 ### IT Security Consultants / Engineers
 
-- Need your contribution here!
+- [ vimopro ](https://www.youtube.com/channel/UCz95hJ9WYjUpvHT5EjmJvEg/featured)
+- [ The Morpheus Tutorials ](https://www.youtube.com/channel/UCLGY6_j7kZfA1dmmjR1J_7w)
 
 ### Bug Bounty Hunters / Penetration Testers
 
-- Need your contribution here!
+- [ PenTestical ](https://www.youtube.com/channel/UCy4SXJC08b_us13SO3abuFg)
 
 ### Malware Analysts / Forensics
 

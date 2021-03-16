@@ -1,0 +1,35 @@
+Arabic,ar
+Croatian,hr
+Czech,cs
+Danish,da
+Dutch,nl
+Estonian,et
+Finnish,fi
+French,fr
+German,de
+Greek,el
+Gujarati,gu
+Hindi,hi
+Hungarian,hu
+Indonesian,id
+Italian,it
+Kazakh,kk
+Korean,ko
+Latvian,lv
+Lithuanian,lt
+Mandarin Chinese,zh
+Marathi,mr
+Portuguese,pt
+Romanian,ro
+Russian,ru
+Serbian,sr
+Slovak,sk
+Spanish,es
+Tamil,ta
+Telugu,te
+Thai,th
+Turkish,tr
+Ukrainian,uk
+Urdu,ur
+Vietnamese,vi
+Western Punjabi,pa

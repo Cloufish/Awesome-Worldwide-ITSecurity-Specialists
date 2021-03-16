@@ -1,0 +1,47 @@
+Algerian Arabic, ar
+Bengali
+Bhojpuri
+Bulgarian
+Croatian, hr
+Czech, cs
+Danish, da
+Dutch, nl
+Egyptian Arabic, ar
+Estonian, et
+Finnish, fi
+French, fr
+Frisian
+German, de
+Greek, el
+Gujarati, gu
+Hindi, hi
+Hungarian, hu
+Indonesian, id
+Iranian Persian
+Italian, it
+Javanese, 
+Kazakh, kk
+Korean, ko
+Latvian, lv
+Lithuanian, lt
+Luxembourgish
+Mandarin Chinese, zh
+Marathi, mr
+Moroccan Arabic
+Portuguese, pt
+Romanian, ro
+Russian, ru
+Serbian, sr
+Slovak, sk
+Spanish, es
+Sudanese Arabic
+Tamil, ta
+Telugu, te
+Thai, th
+Tunisian Arabic
+Turkish, tr
+Ukrainian, uk
+Urdu, ur
+Vietnamese, vi
+Western Punjabi, pa
+Yue Chinese, 
